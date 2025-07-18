@@ -3082,20 +3082,20 @@ fieldset:disabled .btn {
 
 .btn-primary {
     color: #000;
-    background-color: #5E5E5E;
-    border-color: #00B98E
+    background-color: #563B29;
+    border-color: #563B29
 }
 
 .btn-primary:hover {
     color: #000;
-    background-color: #26c49f;
+    background-color: #563B29;
     border-color: #1ac099
 }
 
 .btn-check:focus+.btn-primary,
 .btn-primary:focus {
     color: #000;
-    background-color: #26c49f;
+    background-color: #563B29;
     border-color: #1ac099;
     box-shadow: 0 0 0 .25rem rgba(0, 157, 121, 0.5)
 }
@@ -3397,14 +3397,14 @@ fieldset:disabled .btn {
 
 .btn-dark {
     color: #fff;
-    background-color: #0E2E50;
-    border-color: #0E2E50
+    background-color: #696b54;
+    border-color: #696b54
 }
 
 .btn-dark:hover {
     color: #fff;
-    background-color: #0c2744;
-    border-color: #0b2540
+    background-color: #696b54;
+    border-color: #696b54
 }
 
 .btn-check:focus+.btn-dark,
@@ -8289,7 +8289,7 @@ fieldset:disabled .btn {
 }
 
 .text-primary {
-    color: #00B98E !important
+    color: #696b54 !important
 }
 
 .text-secondary {
@@ -8345,7 +8345,7 @@ fieldset:disabled .btn {
 }
 
 .bg-primary {
-    background-color: #D49A6A !important
+    background-color: #563B29 !important
 }
 
 .bg-secondary {
@@ -8369,7 +8369,7 @@ fieldset:disabled .btn {
 }
 
 .bg-light {
-    background-color: #EFFDF5 !important
+    background-color: #C0C0C0 !important
 }
 
 .bg-dark {
