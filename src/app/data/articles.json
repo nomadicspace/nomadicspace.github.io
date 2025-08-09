@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Interior Design Moodboard",
+        "slug": "interior-design-moodboard",
+        "author": "Rina Setiawan",
+        "published_date": "2025-08-01",
+        "category": "Interior Design",
+        "tags": [
+            "desain",
+            "minimalis",
+            "rumah"
+        ],
+        "excerpt": "Pelajari 10 tips penting dalam mendesain rumah minimalis agar tetap fungsional dan estetik.",
+        "subtitle01": "Desain Interior Kontemporer",
+        "subtitle02": "Desain Interior Skandinavia",
+        "subtitle03": "Desain Interior Modern",
+        "subtitle04": "Desain Interior Tradisional",
+        "subtitle05": "Desain Interior Vintage",
+        "subtitle06": "Desain Interior Shabby Chic",
+        "subtitle07": "Desain Interior Bohemian",
+        "subtitle08": "Desain Interior Industrial",
+        "subtitle09": "Desain Interior Minimalis",
+        "subtitle10": "Desain Interior Transisi",
+        "subtitle11": "Desain Interior Mid Century-Modern",
+        "subtitle12": "Desain Interior Nautical",
+        "subtitle13": "Desain Interior Rustic",
+        "subtitle14": "Desain Interior Victorian",
+        "subtitle15": "Desain Interior Art Deco",
+        "subtitle16": "Desain Interior Pop Art",
+        "subtitle17": "Desain Interior Klasik",
+        "content": [
+            {
+                "subtitle": "Desain Interior Kontemporer",
+                "text": "Desain berikut memadukan konsep masa kini dengan konsep masa depan. Perpaduan ini dapat menghasilkan nuansa yang lebih hangat dan dingin di waktu yang bersamaan. Dengan perpaduan tersebut membuat ruangan memberikan nuansa yang lebih indah dan elegan.",
+                "image": "/img/design-interior-contemporer.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Skandinavia",
+                "text": "Desain interior rumah Skandinavia identik dengan kesan bersih dan alami. Tidak ada banyak dekorasi dalam desain interior ini. Penataan furnitur juga dilakukan dengan rapi sehingga tidak ada kesan berantakan, terutama saat melakukan dekorasi ruang keluarga.",
+                "image": "/img/design-interior-scandinavian.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Modern",
+                "text": "Desain interior rumah modern ini identik dengan furnitur yang menggunakan material besi dan kaca untuk menciptakan nuansa yang mengkilap dan modern.",
+                "image": "/img/design-interior-modern.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Tradisional",
+                "text": "Desain interior rumah tradisional ini menunjukkan karakter tenang dan teratur serta menampilkan suasana nyaman bersahaja. Design interior tradisional di dominasi unsur elemen kayu dengan tekstur khas dan ukiran yang kadang rumit (handmade).",
+                "image": "/img/design-interior-traditional.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Vintage",
+                "text": "Desain interior rumah vintage ini didominasi dengan warna lembut seperti putih, hijau muda, abu-abu muda, pink pastel, dan kuning muda. Untuk motifnya, desain interior ini didominasi oleh bunga-bunga berukuran kecil yang diterapkan pada sarung bantal atau bahan pelapis sofa.",
+                "image": "/img/design-interior-vintage.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Shabby Chic",
+                "text": "Desain interior rumah vintage ini didominasi dengan warna lembut seperti putih, hijau muda, abu-abu muda, pink pastel, dan kuning muda. Untuk motifnya, desain interior ini didominasi oleh bunga-bunga berukuran kecil yang diterapkan pada sarung bantal atau bahan pelapis sofa.",
+                "image": "/img/design-interior-shabby-chic.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Bohemian",
+                "text": "Desain interior rumah bohemian ini sangat cocok untuk kamu yang memiliki jiwa bebas dan ekspresif. Gaya bohemian memiliki ciri khas penggunaan karpet dan kain-kain yang meramaikan penampilan ruangan.",
+                "image": "/img/design-interior-bohemian.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Industrial",
+                "text": "Desain interior rumah industrial mendapatkan inspirasi dari interior gudang industri. Desain interior industrial identik dengan lantai beton dan langit-langit baja. Konsep desain yang memberikan tampilan setengah jadi atau unfinished, yang terinspirasi dari struktural ekspos.",
+                "image": "/img/design-interior-industrial.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Minimalis",
+                "text": "Desain interior rumah minimalis adalah desain interior rumah minimalis identik dengan warna-warna netral seperti putih, abu-abu, dan hitam, sehingga terkesan sederhana. Furnitur yang digunakan memiliki garis bersih dan bentuk yang sederhana seperti kotak dan bulat seperti pada sofa minimalis dan meja. Rumah dengan interior minimalis ini juga tidak memiliki banyak dekorasi di setiap sudutnya.",
+                "image": "/img/design-interior-minimalis.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Transisi",
+                "text": "Desain interior rumah transisi merupakan perpaduan dari gaya tradisional dan modern. Elemen-elemen yang digunakan adalah furnitur bermaterial kaca dan besi, serta warna- warna netral seperti putih dan cokelat.",
+                "image": "/img/design-interior-transisi.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Mid Century-Modern",
+                "text": "Desain interior rumah mid century-modern ini populer pada pertengahan tahun 1950-an dengan ciri khas nuansa yang sederhana, bersih, dan terintegrasi dengan alam. Warna yang paling sering digunakan dalam desain interior ini adalah warna hangat dan alami seperti cokelat.",
+                "image": "/img/design-interior-midcentury-modern.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Nautical",
+                "text": "Desain interior rumah nautical ini merupakan desain interior yang identik dengan suasana pantai atau laut. Warna-warna yang mendominasi interior design ini tentu saja biru dan putih.",
+                "image": "/img/design-interior-nautical.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Rustic",
+                "text": "Desain interior rumah rustic identik dengan elemen kayu tanpa sentuhan akhir serta batu alam. Elemen ini bisa dilihat dari dinding bata yang tidak diaci, langit-langit ekspos, dan furniture kayu. Nuansa yang diciptakan oleh desain interior ini adalah kasar namun hangat.",
+                "image": "/img/design-interior-rustic.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Victorian",
+                "text": "Desain interior rumah victorian ini sering ditemui pada bangunan-bangunan Eropa. Desain ini identik dengan kemegahan serta warna-warna mewah, seperti emas dan putih gading.",
+                "image": "/img/design-interior-victorian.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Art Deco",
+                "text": "Menampilkan kembali romansa art deco pada hunian modern dapat dilakukan melalui fasad bangunannya. Ciri hunian art deco yang vokal terhadap bentuk geometris dan melengkung bisa dipadukan dengan nuansa modern melalui sentuhan sederhana tanpa banyak detail yang memenuhi fasad bangunan.",
+                "image": "/img/design-interior-art-deco.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Pop Art",
+                "text": "Gaya pop art menggunakan kombinasi warna-warni yang cerah, terutama warna primer seperti kuning, biru dan merah. Gambar serta karakter kartun juga sering dipadukan di dalam gaya visual ini.",
+                "image": "/img/design-interior-pop-art.jpg"
+            },
+            {
+                "subtitle": "Desain Interior Klasik",
+                "text": "Desain interior klasik mengedepankan tampilan yang mewah, megah, dan elegan. Konsep desain interior gaya klasik adalah keteraturan, keseimbangan dan keharmonisan sempurna. Titik fokus interior gaya klasik biasanya berupa obyek berukuran besar, seperti furnitur, tangga, atau obyek lainnya.",
+                "image": "/img/design-interior-classic.jpg"
+            } 
+        ],
+        "thumbnail_url": "https://example.com/images/interior1.jpg",
+        "banner_url": "https://example.com/images/interior1-banner.jpg"
+    }
+]
