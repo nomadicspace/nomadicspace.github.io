@@ -23,7 +23,7 @@ export default function Home() {
       {/* Header End */}
 
       <SearchBar />
-      
+
       <div className="container-xxl py-5">
         <div className="container">
           <div className="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style={{ maxWidth: "600px" }}>
@@ -211,7 +211,12 @@ export default function Home() {
       </div>
       {/* <!-- Call to Action End --> */}
 
-      <a href="#" className="btn btn-lg btn-primary btn-lg-square back-to-top"><i className="bi bi-arrow-up"></i></a>
+      <a href="#" className="btn btn-lg btn-primary btn-lg-square back-to-top"><i className="fa-solid fa-arrow-up"></i></a>
+
+      <a href="https://wa.me/6285777007002" className="whatsapp-float" target="_blank" aria-label="Chat on WhatsApp">
+        <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" alt="WhatsApp" />
+        <span>Konsultasi Gratis</span>
+      </a>
 
     </>
   );
