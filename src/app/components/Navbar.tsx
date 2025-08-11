@@ -46,7 +46,7 @@ const Navbar = () => {
                             <Link href="/service/renovasi-rumah" className={`dropdown-item ${isActive('/service/renovasi-rumah') ? 'active' : ''}`}>
                                 Renovasi Rumah/Apartment
                             </Link>
-                            <Link href="/service/logo-design" className={`dropdown-item ${isActive('/service/logo-design') ? 'active' : ''}`}>
+                            <Link href="/service/design-logo" className={`dropdown-item ${isActive('/service/design-logo') ? 'active' : ''}`}>
                                 Desain Logo
                             </Link>
                             <Link href="/service/sketch-2d-3d" className={`dropdown-item ${isActive('/service/sketch-2d-3d') ? 'active' : ''}`}>

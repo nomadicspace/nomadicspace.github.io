@@ -54,7 +54,7 @@ const SearchBar = () => {
                                     <input
                                         type="number"
                                         className="form-control border-0 py-3"
-                                        placeholder="No Telepon"
+                                        placeholder="+62"
                                         value={form.phone}
                                         onChange={(e) => setForm({ ...form, phone: e.target.value })}
                                         required
