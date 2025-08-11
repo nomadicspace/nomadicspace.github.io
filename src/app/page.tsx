@@ -12,7 +12,7 @@ export default function Home() {
         <div className="row g-0 align-items-center flex-column-reverse flex-md-row">
           <div className="col-md-6 p-5 mt-lg-5">
             <h1 className="display-5 animated fadeIn mb-4">Find A <span className="text-primary">Interior Design</span> To Beutify Your House</h1>
-            <p className="animated fadeIn mb-4 pb-2">Kami membantu mewujudkan ruangan yang tidak hanya indah, tapi juga nyaman dan sesuai gaya hidup Anda. Mulai dari maket arsitektur, kitchen set custom, hingga desain interior lengkap — semua bisa kami tangani dengan sentuhan profesional dan hati.</p>
+            <p className="animated fadeIn mb-4 pb-2">Kami adalah penyedia jasa pembuatan maket, desain interior, gambar kerja, dan RAB dengan standar profesional. Fokus kami adalah membantu arsitek, kontraktor, dan pengembang menyampaikan visi proyek dengan visual yang memukau dan akurat.</p>
             <a href="" className="btn btn-primary py-3 px-5 me-3 animated fadeIn">Contact Us</a>
           </div>
           <div className="col-md-6 animated fadeIn">
