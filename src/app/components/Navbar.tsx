@@ -33,9 +33,17 @@ const Navbar = () => {
                             Layanan Kami
                         </Link>
                         <div className="dropdown-menu rounded-0 m-0">
-                            <Link href="/service/kitchen-set" className={`dropdown-item ${isActive('/service/kitchen-set') ? 'active' : ''}`}>Kitchen Set</Link>
                             <Link href="/service/design-interior" className={`dropdown-item ${isActive('/service/design-interior') ? 'active' : ''}`}>
                                 Design Interior
+                            </Link>
+                            <Link href="/service/sketch-2d-3d" className={`dropdown-item ${isActive('/service/sketch-2d-3d') ? 'active' : ''}`}>
+                                Design 2D dan 3D
+                            </Link>
+                            <Link href="/service/rendering" className={`dropdown-item ${isActive('/service/rendering') ? 'active' : ''}`}>
+                                Rendering
+                            </Link>
+                            <Link href="/service/boq-rab" className={`dropdown-item ${isActive('/service/boq-rab') ? 'active' : ''}`}>
+                                BOQ-RAB
                             </Link>
                             <Link href="/service/design-maket" className={`dropdown-item ${isActive('/service/design-maket') ? 'active' : ''}`}>
                                 Pembuatan Maket
@@ -44,14 +52,12 @@ const Navbar = () => {
                                 Custom Furniture
                             </Link>
                             <Link href="/service/renovasi-rumah" className={`dropdown-item ${isActive('/service/renovasi-rumah') ? 'active' : ''}`}>
-                                Renovasi Rumah/Apartment
+                                Renovasi Hunian/Komersil
                             </Link>
                             <Link href="/service/design-logo" className={`dropdown-item ${isActive('/service/design-logo') ? 'active' : ''}`}>
                                 Desain Logo
                             </Link>
-                            <Link href="/service/sketch-2d-3d" className={`dropdown-item ${isActive('/service/sketch-2d-3d') ? 'active' : ''}`}>
-                                Desain 2D dan 3D
-                            </Link>
+                            
                         </div>
                     </div>
                     <Link href="/about" className="nav-item nav-link"> About </Link>

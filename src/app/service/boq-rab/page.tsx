@@ -1,27 +1,17 @@
+import Header from "@/app/components/Header";
 import SearchBar from "@/app/components/SearchBar";
 import Image from "next/image";
 import React from "react";
 
-const KitchenSetPage = () => {
+const BoqRab = () => {
     return (
         <>
-            <div className="container-fluid header bg-white p-0">
-                <div className="row g-0 align-items-center flex-column-reverse flex-md-row">
-                    <div className="col-md-6 p-5 mt-lg-5">
-                        <h1 className="display-5 animated fadeIn mb-4">Kitchen Set</h1>
-                        <nav aria-label="breadcrumb animated fadeIn">
-                            <ol className="breadcrumb text-uppercase">
-                                <li className="breadcrumb-item"><a href="#">Home</a></li>
-                                <li className="breadcrumb-item"><a href="#">Pages</a></li>
-                                <li className="breadcrumb-item text-body active" aria-current="page">kitchen-set</li>
-                            </ol>
-                        </nav>
-                    </div>
-                    <div className="col-md-6 animated fadeIn">
-                        <Image className="img-fluid" src="/img/header-kitchenset.jpg" alt="" width={660} height={462} />
-                    </div>
-                </div>
-            </div>
+            <Header title="BoQ dan RAB" breadcrumb={[
+                { label: "Home", href: "/" },
+                { label: "Service", href: "/boq-rab" },
+                { label: "BoQ dan RAB" },
+            ]} />
+
             <SearchBar />
 
             <div className="container-xxl py-5">
@@ -67,4 +57,4 @@ const KitchenSetPage = () => {
     )
 };
 
-export default KitchenSetPage;
+export default BoqRab;

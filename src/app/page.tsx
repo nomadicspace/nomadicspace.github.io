@@ -11,7 +11,7 @@ export default function Home() {
       <div className="container-fluid header bg-white p-0">
         <div className="row g-0 align-items-center flex-column-reverse flex-md-row">
           <div className="col-md-6 p-5 mt-lg-5">
-            <h1 className="display-5 animated fadeIn mb-4">Find A <span className="text-primary">Interior Design</span> To Beutify Your House</h1>
+            <h1 className="display-5 animated fadeIn mb-4">Find A <span className="text-primary">Interior Design</span> To Beutify Your Dream</h1>
             <p className="animated fadeIn mb-4 pb-2">Kami adalah penyedia jasa pembuatan maket, desain interior, gambar kerja, dan RAB dengan standar profesional. Fokus kami adalah membantu arsitek, kontraktor, dan pengembang menyampaikan visi proyek dengan visual yang memukau dan akurat.</p>
             <a href="" className="btn btn-primary py-3 px-5 me-3 animated fadeIn">Contact Us</a>
           </div>
@@ -31,18 +31,8 @@ export default function Home() {
             <p>Kami menyediakan berbagai layanan untuk anda, dengan tenaga profesional dan berpengalaman kami siap membantu mewujudkan apa yang anda inginkan.</p>
           </div>
           <div className="row g-4">
-            <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-              <a className="cat-item d-block bg-light text-center rounded p-3" href="">
-                <div className="rounded p-4">
-                  <div className="icon mb-3">
-                    <Image className="img-fluid" src="/img/icon-kitchen-set.png" alt="Icon" width={45} height={237} />
-                  </div>
-                  <h6>Kitchen Set</h6>
-                </div>
-              </a>
-            </div>
             <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-              <a className="cat-item d-block bg-light text-center rounded p-3" href="">
+              <a className="cat-item d-block bg-light text-center rounded p-3" href="/service/design-interior">
                 <div className="rounded p-4">
                   <div className="icon mb-3">
                     <Image className="img-fluid" src="/img/icon-design-interior.png" alt="Icon" width={45} height={45} />
@@ -51,58 +41,8 @@ export default function Home() {
                 </div>
               </a>
             </div>
-            <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-              <a className="cat-item d-block bg-light text-center rounded p-3" href="">
-                <div className="rounded p-4">
-                  <div className="icon mb-3">
-                    <Image className="img-fluid" src="/img/icon-design-maket.png" alt="Icon" width={45} height={45} />
-                  </div>
-                  <h6>Pembuatan Maket</h6>
-                </div>
-              </a>
-            </div>
             <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-              <a className="cat-item d-block bg-light text-center rounded p-3" href="">
-                <div className="rounded p-4">
-                  <div className="icon mb-3">
-                    <Image className="img-fluid" src="/img/icon-rab-budget-planning.png" alt="Icon" width={45} height={45} />
-                  </div>
-                  <h6>Pembuatan RAB</h6>
-                </div>
-              </a>
-            </div>
-            <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-              <a className="cat-item d-block bg-light text-center rounded p-3" href="">
-                <div className="rounded p-4">
-                  <div className="icon mb-3">
-                    <Image className="img-fluid" src="/img/icon-custom-furniture.png" alt="Icon" width={45} height={45} />
-                  </div>
-                  <h6>Custom Furniture</h6>
-                </div>
-              </a>
-            </div>
-            <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-              <a className="cat-item d-block bg-light text-center rounded p-3" href="">
-                <div className="rounded p-4">
-                  <div className="icon mb-3">
-                    <Image className="img-fluid" src="/img/icon-renovasi-rumah-apartment.png" alt="Icon" width={45} height={45} />
-                  </div>
-                  <h6>Renovasi Rumah Apartment</h6>
-                </div>
-              </a>
-            </div>
-            <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-              <a className="cat-item d-block bg-light text-center rounded p-3" href="">
-                <div className="rounded p-4">
-                  <div className="icon mb-3">
-                    <Image className="img-fluid" src="/img/icon-logo-design.png" alt="Icon" width={45} height={45} />
-                  </div>
-                  <h6>Design Logo</h6>
-                </div>
-              </a>
-            </div>
-            <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-              <a className="cat-item d-block bg-light text-center rounded p-3" href="">
+              <a className="cat-item d-block bg-light text-center rounded p-3" href="/service/sketch-2d-3d">
                 <div className="rounded p-4">
                   <div className="icon mb-3">
                     <Image className="img-fluid" src="/img/icon-design-2d-3d.png" alt="Icon" width={45} height={45} />
@@ -111,6 +51,71 @@ export default function Home() {
                 </div>
               </a>
             </div>
+            <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+              <a className="cat-item d-block bg-light text-center rounded p-3" href="/service/rendering">
+                <div className="rounded p-4">
+                  <div className="icon mb-3">
+                    <Image className="img-fluid" src="/img/icon-design-2d-3d.png" alt="Icon" width={45} height={237} />
+                  </div>
+                  <h6>Rendering</h6>
+                </div>
+              </a>
+            </div>
+
+            <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+              <a className="cat-item d-block bg-light text-center rounded p-3" href="/service/boq-rab">
+                <div className="rounded p-4">
+                  <div className="icon mb-3">
+                    <Image className="img-fluid" src="/img/icon-rab-budget-planning.png" alt="Icon" width={45} height={45} />
+                  </div>
+                  <h6>BOQ - RAB</h6>
+                </div>
+              </a>
+            </div>
+            
+            <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+              <a className="cat-item d-block bg-light text-center rounded p-3" href="/service/design-maket">
+                <div className="rounded p-4">
+                  <div className="icon mb-3">
+                    <Image className="img-fluid" src="/img/icon-design-maket.png" alt="Icon" width={45} height={45} />
+                  </div>
+                  <h6>Pembuatan Maket</h6>
+                </div>
+              </a>
+            </div>
+            
+            <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+              <a className="cat-item d-block bg-light text-center rounded p-3" href="/service/custom-furniture">
+                <div className="rounded p-4">
+                  <div className="icon mb-3">
+                    <Image className="img-fluid" src="/img/icon-custom-furniture.png" alt="Icon" width={45} height={45} />
+                  </div>
+                  <h6>Custom Furniture</h6>
+                </div>
+              </a>
+            </div>
+
+            <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+              <a className="cat-item d-block bg-light text-center rounded p-3" href="/service/renovasi-rumah">
+                <div className="rounded p-4">
+                  <div className="icon mb-3">
+                    <Image className="img-fluid" src="/img/icon-renovasi-rumah-apartment.png" alt="Icon" width={45} height={45} />
+                  </div>
+                  <h6>Renovasi Hunian/Komersil</h6>
+                </div>
+              </a>
+            </div>
+            <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+              <a className="cat-item d-block bg-light text-center rounded p-3" href="/service/design-logo">
+                <div className="rounded p-4">
+                  <div className="icon mb-3">
+                    <Image className="img-fluid" src="/img/icon-logo-design.png" alt="Icon" width={45} height={45} />
+                  </div>
+                  <h6>Design Logo</h6>
+                </div>
+              </a>
+            </div>
+            
           </div>
         </div>
       </div>

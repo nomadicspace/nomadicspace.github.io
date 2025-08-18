@@ -8,12 +8,12 @@ const Footer = () => {
                 <div className="row g-5">
                     <div className="col-lg-3 col-md-6">
                         <h5 className="text-white mb-4">Get In Touch</h5>
-                        <p className="mb-2"><i className="fa-solid fa-phone-alt me-3"></i>+6285 777 007 002</p>
+                        <p className="mb-2"><i className="fa-solid fa-phone-alt me-3"></i>+62819 9272 9298</p>
                         <p className="mb-2"><i className="fa-solid fa-envelope me-3"></i>nomadicspaceofficial@gmail.com</p>
                         <p className="mb-2"><i className="fa-solid fa-map-marker-alt me-3"></i>Citizen Park North 7, No 25, Tangerang</p>
 
                         <div className="d-flex pt-2">
-                            <a className="btn btn-outline-light btn-social" href="https://www.instagram.com/nomadicspaceethnic/?hl=en"><i className="fab fa-instagram"></i></a>
+                            <a className="btn btn-outline-light btn-social" target="_blank" href="https://www.instagram.com/nomadicspaceethnic/?hl=en"><i className="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div className="col-lg-3 col-md-6">
