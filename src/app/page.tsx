@@ -47,7 +47,7 @@ export default function Home() {
                   <div className="icon mb-3">
                     <Image className="img-fluid" src="/img/icon-design-2d-3d.png" alt="Icon" width={45} height={45} />
                   </div>
-                  <h6>Design 2D 3D</h6>
+                  <h6>Design 2D-3D</h6>
                 </div>
               </a>
             </div>
@@ -79,7 +79,7 @@ export default function Home() {
                   <div className="icon mb-3">
                     <Image className="img-fluid" src="/img/icon-design-maket.png" alt="Icon" width={45} height={45} />
                   </div>
-                  <h6>Pembuatan Maket</h6>
+                  <h6>Maket</h6>
                 </div>
               </a>
             </div>
@@ -101,7 +101,7 @@ export default function Home() {
                   <div className="icon mb-3">
                     <Image className="img-fluid" src="/img/icon-renovasi-rumah-apartment.png" alt="Icon" width={45} height={45} />
                   </div>
-                  <h6>Renovasi Hunian/Komersil</h6>
+                  <h6>Renovasi Hunian-Komersil</h6>
                 </div>
               </a>
             </div>

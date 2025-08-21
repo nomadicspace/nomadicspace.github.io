@@ -246,7 +246,7 @@
     justify-content: center;
     background: #FFFFFF !important;
     border-radius: 50px;
-    border: 1px dashed var(--primary) !important;
+    /* border: 1px dashed var(--primary) !important; */
 }
 
 
